@@ -52,7 +52,7 @@ class AmiFrancais:
             print(self.answer_question(question))
    
 
-# Najprv vytvor inštanciu triedy s potrebnými parametrami
+# Najprv vytvorime inštanciu triedy s potrebnými parametrami
 antoine = AmiFrancais(
     Antoine="Antoine",
     JeNeTravaillePas="ne travaille pas",
