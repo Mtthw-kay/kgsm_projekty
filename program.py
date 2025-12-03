@@ -43,7 +43,7 @@ class AmiFrancais:
         print(self.introduce())
         
         while True:
-            question = input("\nVotre question (alebo 'quit' pre ukončenie): ")
+            question = input("\nVotre question: ")
             
             if question.lower() in ['quit', 'exit', 'au revoir', 'bye']:
                 print("Au revoir !")
